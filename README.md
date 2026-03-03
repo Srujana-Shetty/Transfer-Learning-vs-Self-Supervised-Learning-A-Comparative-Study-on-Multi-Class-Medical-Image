@@ -1,0 +1,2 @@
+# Transfer-Learning-vs-Self-Supervised-Learning-A-Comparative-Study-on-Multi-Class-Medical-Image
+Developed and compared six deep learning models—ResNet50, ViT, CLIP, DINO, CTransPath, and UNI—for multi-stage medical image classification. Applied transfer learning and fine-tuning under a unified training setup, and evaluated performance using accuracy, precision, recall, F1-score, and ROC-AUC to determine the most robust architecture.
